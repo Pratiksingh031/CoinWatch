@@ -178,12 +178,12 @@ function App() {
                     fontWeight: 600,
                   }}
                 >
-                  MUKUL NEGI
+                  PRATIK RAJ SINGH
                 </Typography>
                 {' • '}
                 <Typography
                   component="a"
-                  href="mailto:nmukul32@gmail.com"
+                  href="mailto:pratikrajsingh520@gmail.com"
                   sx={{
                     color: 'secondary.main',
                     textDecoration: 'none',
@@ -193,7 +193,7 @@ function App() {
                     },
                   }}
                 >
-                  nmukul32@gmail.com
+                  pratikrajsingh520@gmail.com
                 </Typography>
               </Typography>
             </Box>
